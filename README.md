@@ -1,0 +1,1 @@
+Welcome to the web page project. This repository contain the source code for a web design example, developed by Ideamagix company. This project showcases the best practices in modern web development using HTML and CSS to create a website that adapts seamlessly across different devices and screen sizes.
