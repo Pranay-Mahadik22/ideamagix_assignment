@@ -1,0 +1,77 @@
+.right {
+    border: 2px solid #f3eeee;
+    padding: 34px;
+    box-shadow: 2px 2px 2px 2px #afa9a9;
+    border-radius: 13px;
+    margin-bottom: 96vw;
+}
+
+.card {
+    height: 526px;
+    margin-right: 21px;
+    box-shadow: 2px 2px 2px 2px;
+    border: 2px  #f7f4f4;
+}
+.Doctors.d-flex.text-center {
+    height: 76px;
+    margin: 99px;
+}
+img.card-img-top {
+    height: 272px;
+    margin: 55px;
+    width: 240px;
+}
+.sec6 {
+    background-color: #e6e2e2;
+    height: 58vw;
+}
+.cards {
+    border: 1px dotted red;
+    margin-right: 30px;
+    margin-left: 79px;
+}
+img.card-img-tops {
+    height: 200px;
+    width: 100%;
+}
+h4.card-title {
+    font-family: cursive;
+}
+.sec8.text-center{
+    background-image: url("https://wallpaperaccess.com/full/4112935.png");
+    padding: 7vw;
+    color: white;
+}
+.btnsec.d-flex {
+    margin-left: 32vw;
+}
+button.get {
+    padding: 5px;
+    width: 153px;
+    background-color: #3737e5;
+    color: white;
+    border: none;
+}
+.knee{
+    background-image: url("https://waortho.com/wp-content/uploads/2021/10/person-suffering-from-knee-pain-digital-bone-human-foot-injury-caused-by-tendon-problems.jpg");
+    padding: 10vw;
+    color: white;
+}
+button.Enquiry {
+    margin-top: 28px;
+    padding: 10px;
+    width: 15vw;
+    color: white;
+    background-color: #1a1ab4;
+    border: none;
+}
+.main.d-flex {
+    justify-content: space-around;
+}
+.fooup.d-flex {
+    justify-content: space-around;
+}
+.footer{
+    background-image: url("https://pixelplex.io/next/images/scholarship/essays/scholarship-how-blockchain-technology-can-cure-the-ailing-pharmaceutical-industry.jpg");
+
+color: white;}
